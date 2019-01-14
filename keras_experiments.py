@@ -3,7 +3,7 @@
 """
 Created on Sat Nov 24 13:30:41 2018
 
-@author: william
+@author: william and johan
 """
 from keras.layers import Input, Conv2D, BatchNormalization, UpSampling2D, MaxPool2D
 from keras.models import Model
